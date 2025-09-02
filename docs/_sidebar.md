@@ -13,6 +13,7 @@
     - [1.2.5. Glossário](Base/1.2.5.Glossario.md)
     - [1.2.6. Planos de Risco, Custo e Tempo](Base/1.2.6.Planos.md)
     - [1.2.7. Protótipo](Base/1.2.7.Prototipo.md)
+    - [1.2.8 Lean Persona](Base/1.2.8.LeanP.md)
   - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
   - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
   - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
