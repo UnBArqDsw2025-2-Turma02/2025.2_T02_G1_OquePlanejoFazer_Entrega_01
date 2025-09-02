@@ -18,3 +18,4 @@
   - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
 - **2. Atas de Reunião**
   - [2.1. Ata 01](Atas/2.1.Ata01.md)
+  - [2.2. Ata 02](Atas/2.2.Ata02.md)
