@@ -80,7 +80,7 @@ O projeto tem como objetivo desenvolver um planner digital simples e intuitivo, 
 
 Para guiar o desenvolvimento, foi criada a **Lean Persona – Cliente Fictício**: Byanca Medeiros, 23 anos, universitária e estagiária de Engenharia de Software. Ela precisa organizar estudos, estágio e vida pessoal em um só lugar, mas enfrenta dificuldades ao usar vários aplicativos separados e sente que não aproveita bem a semana. O ganho esperado com a solução é um planner digital simples e centralizado, que aumente sua produtividade e facilite a gestão de tempo.
 
-> **Observação:** A Lean Persona detalhada pode ser consultada na seção [Lean Persona](#lean-persona) do projeto.
+> **Observação:** A Lean Persona detalhada pode ser consultada na seção [Lean Persona](Base/1.2.8.LeanP.md) do projeto.
 
 ## Screenshots da Primeira Entrega
 
