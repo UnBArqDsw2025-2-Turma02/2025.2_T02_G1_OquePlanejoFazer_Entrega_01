@@ -76,18 +76,45 @@
 </center>
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O projeto tem como objetivo desenvolver um planner digital simples e intuitivo, capaz de centralizar atividades pessoais, acadêmicas e profissionais em um só lugar. A proposta é aplicar na prática conteúdos de arquitetura e desenho de software, permitindo documentar e utilizar conceitos técnicos ao longo do desenvolvimento.
+
+Para guiar o desenvolvimento, foi criada a **Lean Persona – Cliente Fictício**: Byanca Medeiros, 23 anos, universitária e estagiária de Engenharia de Software. Ela precisa organizar estudos, estágio e vida pessoal em um só lugar, mas enfrenta dificuldades ao usar vários aplicativos separados e sente que não aproveita bem a semana. O ganho esperado com a solução é um planner digital simples e centralizado, que aumente sua produtividade e facilite a gestão de tempo.
+
+> **Observação:** A Lean Persona detalhada pode ser consultada na seção [Lean Persona](#lean-persona) do projeto.
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+Alguns artefatos que encontrará na documentação:
+
+<div align="center">
+    <img src="Assets/img/design-sprint-sala1.jpeg" alt="Grupo reunido na design sprint">
+    <p align="center"><em>Imagem 01 - Realização da Design Sprint</em></p>
+</div>
+
+---
+
+<div align="center">
+    <img src="Assets/img/RichPicture-Etapa3-DesignSprint.jpg" alt="Post-its Gerais">
+    <p align="center"><em>Imagem 04 - Rich Picture eleito</em></p>
+</div>
+
+--- 
+
+<div align="center">
+    <img src="Assets/img/Post-its_Gerais.PNG" alt="Post-its Gerais">
+    <p align="center"><em>Imagem 02 - Ideias dos integrantes em Post-its</em></p>
+</div>
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+(X) NÃO
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+> “O maior desafio desta entrega foi coordenar a equipe e garantir a qualidade do que foi desenvolvido.” – Brenno Oliveira.
+
+## Histórico de Versões
+| Versão | Alteração | Responsável | Data | Revisor |  Detalhes da Revisão | Data da Revisão |
+|--------|-----------|-------------|------|---------|----------------------|-----------------|
+| 1.0 | Criação do "Sobre" e referência ao Lean Persona. | [Camila Careli](https://github.com/camilascareli) | 02/09/2025 | [Brenno Oliveira](https://github.com/Brenno-Silva01) | Feito correções ortográficas e adição de imagens.  | 04/09/2025 |
