@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+
+# Docsify build artifacts
+/.docsify/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Misc
+*.swp
+*.swo
+
+# Ignore build output (if any)
+dist/
+build/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore temp files
+*.tmp
+*.temp
+
+# Ignore generated files
+*.bak
+
+# Ignore Python cache (if any)
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore docsify .nojekyll
+/docs/.nojekyll
